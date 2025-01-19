@@ -1,0 +1,6 @@
+# Ignore virtual environments 
+myenv/ 
+newenv/ 
+# Ignore other unnecessary files 
+*.dll 
+*.pyd 
